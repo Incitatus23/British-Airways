@@ -1,1 +1,2 @@
 # British-Airways
+The following project is a job simulation task for British Airways, taken from forage.com. The purpose of the first task was to scrape customer reviews for British Airways from airlinequality.com, and use sentiment analysis to classify customer opinions. The purpose of the second task was to build a predictive model to determine which factors were most important in determining whether customers completed a booking with British Airways or not. 
